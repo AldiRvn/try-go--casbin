@@ -1,0 +1,2 @@
+p,"admin","/user/*","(GET)|(DELETE)"
+p,"user","/statistic","GET"
